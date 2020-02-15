@@ -1,0 +1,30 @@
+body 
+{font-family: 'Lato', sans-serif;
+background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper
+{text-align: center;}
+
+a
+{color:green; text-decoration: none;}
+
+a:hover {color: hotpink; font-weight: bold;}
+
+.boxes 
+{display: block; margin-top: 2rem; padding-bottom: 2rem; border: 5px solid orange ; border-radius: 2rem ; width: 30em;}
+
+#box1 
+{background-color: orangered;}
+
+#box2 
+{background-color: orchid;}
+
+#box3 
+{background-color: olive;}
+
+#box4 
+{background-color: navy;}
+
+.boxImage
+{height: 50px; width: 50px; border-radius: 50px; background-color: yellow; position: relative; top: 50px; left: 100px  ;}
